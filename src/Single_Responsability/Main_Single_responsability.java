@@ -22,6 +22,5 @@ public class Main_Single_responsability {
        serviceBD.save(car2);
        serviceBD.update(car3);
        serviceBD.findAll();
-       
     }
 }

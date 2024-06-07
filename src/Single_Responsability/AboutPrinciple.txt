@@ -1,0 +1,5 @@
+Single responsability:
+
+This principle say us that classes, components or microservices only must has one responsability,
+because if we have more than one resposability the cahnge of one responsability
+implies the modification of another responsability. 
